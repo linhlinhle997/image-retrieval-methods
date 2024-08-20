@@ -16,7 +16,7 @@ This repository contains two approaches to image retrieval:
     git clone https://github.com/yourusername/image_retrieval_methods.git
     cd image_retrieval_methods
     ```
-2. Open the notebook in Google Colab or Jupyter.
+2. Open the notebook in `Google Colab` or `Jupyter`.
 3. Follow the step-by-step instructions provided in the notebook to explore different image retrieval methods:
     - `Traditional Approach`: Open `image_retrieval_traditional` to experiment with classic similarity-based retrieval methods.
     - `Embedding Approach`: Open `image_retrieval_embedding` to use embedding-based retrieval techniques like CLIP.
