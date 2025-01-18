@@ -20,3 +20,11 @@ This repository contains two approaches to image retrieval:
 3. Follow the step-by-step instructions provided in the notebook to explore different image retrieval methods:
     - `Traditional Approach`: Open `image_retrieval_traditional` to experiment with classic similarity-based retrieval methods.
     - `Embedding Approach`: Open `image_retrieval_embedding` to use embedding-based retrieval techniques like CLIP.
+
+## Result
+
+- Traditional and L2
+![Traditional and L2](results/traditional_l2.png)
+
+- CLIP and L2
+![CLIP and L2](results/clip_l2.png)
